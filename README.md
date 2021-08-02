@@ -1,1 +1,1 @@
-# m-slidersy
+# m-sliders
